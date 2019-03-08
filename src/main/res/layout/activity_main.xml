@@ -26,6 +26,7 @@
         android:id="@+id/txtResult"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:hint="@string/txtResult"
         android:textAlignment="center"
         android:textColor="@color/colorPrimaryDark"
         android:textSize="36sp"
@@ -34,8 +35,7 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.8"
-        tools:text="@string/txtResult" />
+        app:layout_constraintVertical_bias="0.8" />
 
     <EditText
         android:id="@+id/txtNumberInput"

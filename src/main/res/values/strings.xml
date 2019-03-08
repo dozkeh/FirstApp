@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MyFirstApp2019</string>
+    <string name="txtHintGame">Rate die Zahl zwischen 1 und 20!</string>
+    <string name="txtResult">Rateergebnis</string>
+    <string name="hintInputNumber">Geben Sie eine Zahl zwischen 1 und 20 ein</string>
+    <string name="resultLow">Die Zahl war zu niedrig!</string>
+    <string name="resultHigh">Die Zahl war zu hoch!</string>
+    <string name="resultOutOfRange">Die Zahl sollte doch zwischen 1 und 20 sein, Idiot!</string>
+    <string name="resultCorrect">Das war die Zahl!</string>
 </resources>
